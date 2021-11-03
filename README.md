@@ -4,6 +4,9 @@
 
 → Solving math word problems.
 
+2. **corpus.tsv**: math word problems (sample)
+
+→ We provide a sample text in the corpus file.
 
 ## License
 This project is licensed under the terms of the Apache License 2.0.

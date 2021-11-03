@@ -6,7 +6,7 @@
 
 2. **Tokenizer.py**: masking tokens
 
-→ If you need vocab.txt, run Tokenizer.py.
+→ If you need vocab.txt, execute Tokenizer.py.
 
 3. **corpus.tsv**: math word problems (sample)
 

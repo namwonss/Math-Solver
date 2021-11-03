@@ -15,6 +15,7 @@ from torch.utils.data import Dataset, DataLoader
 from tqdm import tqdm
 
 import random as rd
+import os
 
 import numpy as np
 
@@ -38,8 +39,12 @@ class MathNet(nn.Module):
         return classes
 
 if __name__ == "__main__":
-    questions, labels = load_raw_math_data("./traindata.tsv")
-    vocab = load_vocab("./vocab.txt")
+    
+    if not os.path.exists("./output"):
+        os.makedirs("./output")
+
+    questions, labels = load_raw_math_data("./data/traindata.tsv")
+    vocab = load_vocab("./data/vocab.txt")
     seq_len = 128
     number_of_classes = 7
     data_len = len(questions)
@@ -86,7 +91,7 @@ if __name__ == "__main__":
 
         if epoch and epoch % 20 == 0:
             print("model save...")
-            torch.save(model, "classifier_base"+f"_{epoch}"+".pth")
+            torch.save(model, "./output/classifier_base"+f"_{epoch}"+".pth")
 
         cur_epoch = avg_loss / len(train_dataset)
         pbar.set_description("train loss : %f " % cur_epoch)

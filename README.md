@@ -2,13 +2,17 @@
 
 1. **main.py**: main file
 
-→ Solving math word problems.
+→ Classifier for math word problems.
 
-2. **Tokenizer.py**: masking tokens
+2. **Tokenizer.py**
 
 → If you need vocab.txt, execute Tokenizer.py.
 
-3. **corpus.tsv**: math word problems (sample)
+2. **generate_training_data.py**
+
+→ Check all path.
+
+4. **corpus.tsv**: math word problems (sample)
 
 → We provide a sample text in the corpus file.
 

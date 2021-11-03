@@ -47,9 +47,9 @@ def main():
     }
 
     tokenizer = Tokenizer()
-    vocab = load_vocab("./vocab.txt")
+    vocab = load_vocab("./data/vocab.txt")
 
-    mathNet = torch.load("./classifier_base_1100.pth")
+    mathNet = torch.load("./pretrained/classifier_base_1100.pth")
     mathNet.eval()
 
     sentence = "강의 상류에 (가) 지점이, 하류에 (나) 지점이 있고 동시에 두 지점에서 배가 마주 보고 출발하였습니다. 2개의 배는 출발해서 50분 만에 마주쳤고 (가) 지점을 떠난 배는 그 후 30분 만에 (나) 지점에 도착했습니다. 그때 (나) 지점을 떠난 배는 (가) 지점에서 32/5km 떨어진 지점에 있었습니다. 강물은 상류에서 하류로 흐를 때, 두 배가 잔잔한 물에서의 속력이 같을 때 강물의 속력은 몇 km/시 입니까?"

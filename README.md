@@ -1,4 +1,4 @@
-# Math-Solver
+# Classifier for Math Word Problems
 
 1. **main.py**: main file
 

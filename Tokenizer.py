@@ -98,6 +98,6 @@ if __name__=="__main__":
     
     vocab = tokenizer.tokenize(symbolized_corpus, forVocab=True)
 
-    with open('./vocab.txt', 'w', encoding='utf-8-sig') as f:
+    with open('./data/vocab.txt', 'w', encoding='utf-8-sig') as f:
         for v in vocab:
             f.write(v + '\n')

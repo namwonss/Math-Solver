@@ -4,7 +4,11 @@
 
 → Solving math word problems.
 
-2. **corpus.tsv**: math word problems (sample)
+2. **Tokenizer.py**: masking tokens
+
+→ If you need vocab.txt, run Tokenizer.py.
+
+3. **corpus.tsv**: math word problems (sample)
 
 → We provide a sample text in the corpus file.
 

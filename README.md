@@ -8,6 +8,6 @@
 ## License
 This project is licensed under the terms of the Apache License 2.0.
 
-Copyright 2018 Junseong Kim, Scatter Lab, respective BERT contributors
+Copyright 2018 Junseong Kim, Scatter Lab, respective BERT contributors: [Bert-pytorch](https://github.com/codertimo/BERT-pytorch)
 
 Copyright (c) 2018 Alexander Rush : [The Annotated Trasnformer](https://github.com/harvardnlp/annotated-transformer)

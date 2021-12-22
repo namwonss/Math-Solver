@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/namwonss/Math-Solver/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/namwonss/Math-Solver/main/sitemap.xml

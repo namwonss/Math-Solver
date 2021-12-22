@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
-.google5c653c21e11e68df.html
+*.html
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

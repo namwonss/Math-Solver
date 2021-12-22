@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/namwonss/Math-Solver</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/LICENSE</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/issues</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pulls</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/actions</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/projects?type=beta</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/security</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/f7eb9dca2c933f1c38534b8eba14029cd15d2289</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/MathDataset.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/README.md</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/Tokenizer.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/classifierTrain.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/generate_training_data.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/main.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/requirements.txt</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/utils.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/releases</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/LICENSE</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/find/main</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/compare</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/2</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/projects</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/security/policy</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/security/advisories</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/c726cab1ad44904401a000da6a5309e31a17af7f</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/MathDataset.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/README.md</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/main/README.md?plain=1</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/Tokenizer.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/classifierTrain.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/generate_training_data.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/main.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/utils.py</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/find/f7eb9dca2c933f1c38534b8eba14029cd15d2289</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels?sort=name-asc</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels?sort=name-desc</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels?sort=count-desc</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels?sort=count-asc</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/bug</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/documentation</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/duplicate</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/enhancement</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/good%20first%20issue</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/help%20wanted</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/invalid</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/question</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/labels/wontfix</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/2/commits</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/2/checks</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/2/files</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/security/advisories?state=published</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/855d14f0667d1932c3affdcc3614f16d0b24797d</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/blob/f7eb9dca2c933f1c38534b8eba14029cd15d2289/README.md?plain=1</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/240cdb753825967e8f0e701e287e0633025fc0b2</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/48881038ada5f30a134c8469cd39c5772bb2d3f2</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/55288816872319d6c5dd92e7b7f5ecaa43be3fe4</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/d20621f0c8d8012c6d5fdf28a7316504685661e2</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/ab13f54ea5975200da44d4aaec8ee55e3d3b90bd</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/aa0fca4cb987c8b282034abf0740e66a71084520</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/2a8f486406c4bfe60bda8fac925a5fbebb247f98</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/439c737bf12c3a414e6c115a7524d27c58edc7ef</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/f75d285b7f3101a363a30113a4679a450ad660d0</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/a4e4043739d12791004c893288da069ea3c92f29</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/d12095b569131d5b9d1100b0259938a38758e813</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/09c8b3ee88dac6442a97491ff99e24520efe39da</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/3685a12d21b212592d1aa2a32ba50dcf438633ab</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/60aa447b6a209e1fbda7bf9da592fd71064e9e56</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/18df5bbb66bb58de8d85927d896c5893608e2c4a</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/714f74545fdcea4acaa71f15250d06a2542f204e</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/31d5bd34ee6b5fbffed3443aaceb08f651932b67</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/8d8b4665badf59040aaa3055d9fb26fc48653a64</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/69cac2432735aefe42892be845712b7d88795a95</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/e2cb8395ad3ec4bc6b1c9d85134113c622598a14</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/c22096ed3eea0f62af2bad0c56df894475f86fc7</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/808ceb06655fe56d2ceaf3782171ee30e4abc980</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/a1fb5baa2e6b6ca946c5ca2a49a4fb989be2a0b4</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/90b66105f144ff327d21c7268ef1032af7863a32</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/9f2a0088b148ae5482e27fce495abc429b41aee1</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/32fa7fe9304501cfca917bef98d0702caa39ba79</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/8625b787be1d5d423b195543409dd339d5135566</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/589da6d67358283aa34c5c97ed5da5ffb7c397cd</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/f93e1a755f5ea443e8b802bb596e52f7b728397e</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/1</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/620f29af049bcc82f5dbb1859e87ae3a9bcdd18c</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/2bcb8f28bba9fa23e84902ea5cde3d9c965a4299</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/1/commits</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/1/checks</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/pull/1/files</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/fa49176f85d4077f59c0fbf8631da364b826800e</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/namwonss/Math-Solver/commit/4f4c77b702de2b82ff5aec80a8fa686e2982c972</loc>
+  <lastmod>2021-12-22T06:07:28+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+
+
+</urlset>
